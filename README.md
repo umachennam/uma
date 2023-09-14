@@ -1,3 +1,3 @@
 # uma
 my first project
-,nidsdiawn 
+author uma
